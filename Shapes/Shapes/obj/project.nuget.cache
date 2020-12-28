@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "KdXVwQXy8i1GorzJsICm+ID4WZl6NIA92N6q+PMdW/Qi0CGjgmfGbra8ZQNbKl7JM1RRZoxUHsIMTPfaoRQv9Q==",
+  "dgSpecHash": "kZ17Sgqm1ZmO0aInSPFdeiA6vkdsfTSXPE5qBzr69scnnR+J5uhgEsIpbHlujxTDPJXpf+FdNIrZY3O6i+up2Q==",
   "success": true,
   "projectFilePath": "C:\\Users\\JoseBergua\\Documents\\Shapes\\Shapes\\Shapes\\Shapes.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\JoseBergua\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }
